@@ -61,6 +61,7 @@ Hooks are included by default unless marked otherwise: 🕰️ legacy (supersede
   Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) — Some out-of-the-box hooks for pre-commit
 - [pre-commit-sort](https://github.com/nim65s/pre-commit-sort) — Sort .pre-commit-config.yaml & .pre-commit-hooks.yaml
+- [ratchet](https://github.com/krishansubudhi/ratchet) — A code-size budget that only goes down: refuses commits that grow source or test lines past the ceiling recorded by `ratchet init`.
 - [semgrep](https://github.com/semgrep/semgrep) — Lightweight static analysis for many languages.
   Find bug variants with patterns that look like source code.
 - [talisman](https://github.com/thoughtworks/talisman) — Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
